@@ -7,7 +7,7 @@ def write_html(message=""):
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 <body>
-  <h1>&lt;yourname&gt;'s Web Journal</h1>
+  <h1>Yuzhuo's Web Journal</h1>
   <div class="create-post">
     <h2>Create a Post</h2>"""
   
